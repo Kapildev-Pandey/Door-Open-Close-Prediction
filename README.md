@@ -1,5 +1,7 @@
 # Door-Open-Close-Prediction
 
+Here we will try to predict whether the images is of close/open door. The idea behind this methos is simple and it works on method of prediction of Cat vs Dog. The way we are try to predict cat vs dog , it is based on similar manner.
+
 ### Generate own dataset:
 Here we will generate our own dataset by using only 'Two image' and will store it 'train' folder . We need only one folder to work and will split into train-test split. Performance level gets check on test data.
 
