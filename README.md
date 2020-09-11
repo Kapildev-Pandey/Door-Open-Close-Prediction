@@ -13,23 +13,27 @@ Code will generate dataset for closed image door till data_samples. Download the
 
 [Close-Door-Image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTu02CHXa9xdKBY3-9Y6cD5ofxOon1LGTxO3A&usqp=CAU)
 
-We will also other works like labelinng and more by using method:
-Requirements:
+We will also do other works like labelinng and more by using method:
+
+**Requirements:**
+
 1.Numpy
+
 2.Keras
 
 I didn't found someone work related to this dataset so I tried it my own way.
 
-Some more useful resources:
+**Some more useful resources:**
+
 1.Github
+
 2.Medium.com
+
 3.Youtube
+
 etc.
 
 **Note:** We just need idea based on how Dog vs Cats prediction work on CNNN and different way to write code. You have to just type 'Dog vs Cat in CNN' and  you will get plenty of resources. And work on our own dataset.
-
-
-
 
 
 Output you can see in jupyter notebook.
