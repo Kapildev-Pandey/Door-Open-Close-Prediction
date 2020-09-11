@@ -33,7 +33,7 @@ I didn't found someone work related to this dataset so I tried it my own way.
 
 etc.
 
-**Note:** We just need idea based on how Dog vs Cats prediction work on CNNN and different way to write code. You have to just type 'Dog vs Cat in CNN' and  you will get plenty of resources. And work on our own dataset.
+**Note:** We just need idea based on how Dog vs Cats prediction work on CNN and different way to write code. You have to just type 'Dog vs Cat in CNN' and  you will get plenty of resources. And work on our own dataset.
 
 
 Output you can see in jupyter notebook.
